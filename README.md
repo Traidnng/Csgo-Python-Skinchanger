@@ -46,3 +46,6 @@ Uygulamayı Başlatın:
 
 
 ```python Skinchanger.py```
+
+🛡️ Sorumluluk Reddi
+Bu depo tamamen eğitim, yazılım mimarisi analizi ve sistem bellek araştırmaları amacıyla oluşturulmuştur.
